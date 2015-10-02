@@ -15,3 +15,6 @@ adds comments to file before upload
 ## Step 6
 Pushes doc to default
 ```git push```
+
+## In case of problems
+You can use the ```git stash``` command to clear unwanted commits or other problems
