@@ -7,7 +7,7 @@ change directory to working directory (cd)
 ## Step 3
 create or edit files in your working directory
 ## Step 4
-adds edits to text file
+adds edits to text file (use specific file name or use "." which is a wildcard selecting everything)
 ```git add```
 ## Step 5
 adds comments to file before upload
