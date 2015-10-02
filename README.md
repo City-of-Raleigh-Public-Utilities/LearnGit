@@ -12,3 +12,6 @@ adds edits to text file
 ## Step 5
 adds comments to file before upload
 ```git commit -m```
+## Step 6
+Pushes doc to default
+```git push```
