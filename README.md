@@ -8,5 +8,7 @@ change directory to working directory (cd)
 create or edit files in your working directory
 ## Step 4
 adds edits to text file
-```git add``
-## Step 5`
+```git add```
+## Step 5
+adds comments to file before upload
+```git commit -m```
