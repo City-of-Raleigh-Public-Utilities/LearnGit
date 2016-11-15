@@ -5,9 +5,9 @@ PUGIS Internal GitHub Training
 Download GitHub Desktop at https://desktop.github.com/
 ##Step 1
 Copy the git clone url from the right side of the project webpage. Start git shell, ```cd (directory)``` go to directory you want clone to and enter ```git clone ``` followed by the url just copied. This will put a copy of the project on local machine. If repository already existed use ```git pull``` to get updated documents.
-![Clone repository](/screenshots/Clone.PNG =200x120 "Clone Repo Url")
+![Clone repository](/screenshots/Clone.PNG "Clone Repo Url")
 
-![Shell command](/screenshots/Shell.PNG =200x120 "Clone to Local Directory")
+![Shell command](/screenshots/Shell.PNG "Clone to Local Directory")
 ##Step 2
 Change directory to working directory ```cd (directory)```
 ##Step 3
@@ -24,5 +24,3 @@ Pushes doc to default
 
 ##In case of problems
 You can use the ```git stash``` command to clear unwanted commits or other problems
-
-[To the beginning](##Step 0)
